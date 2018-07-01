@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BluetoothTest</string>
+    <string name="button_show_devices">Show devices</string>
+</resources>
